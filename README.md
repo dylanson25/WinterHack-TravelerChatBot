@@ -11,6 +11,13 @@ En este respositorio se puede encontrar la informacion y el codigo fuentes utili
 ## Tecnologias
 
 Se utilizaron varios servicios de Azure 
+- los servicios son: QNA MAKER
+- PLAN DE APP SERVICE
+- APP SERVICE
+- SERVICIO DE BUSQUEDA
+- BOT DE APP WEB
+- APP SERVICE
+- APPLICATION INSIGHTS
 
 ## Acceso al ChatBot
 Microsoft teams
