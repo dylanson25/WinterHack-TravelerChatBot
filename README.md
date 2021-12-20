@@ -19,3 +19,7 @@ Microsoft teams
 ## TCO y SLA
 El TCO y SLA estan disponibles en dentro de este repositorio con sus respectivos nombres
 
+## Tiktok
+Presentacion del chat bot:
+
+- https://vm.tiktok.com/ZM83D5H7s/
