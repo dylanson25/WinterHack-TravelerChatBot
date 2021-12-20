@@ -23,3 +23,10 @@ El TCO y SLA estan disponibles en dentro de este repositorio con sus respectivos
 Presentacion del chat bot:
 
 - https://vm.tiktok.com/ZM83D5H7s/
+
+## INTEGRANTES
+- Jorge Alberto Bautista Juarez
+- Juan Carlos Santillán Garnica
+- Dylan Ivan Villarreal
+- Marcos Joel Silva Gallegos
+- Guadalupe Viridiana Nieves
